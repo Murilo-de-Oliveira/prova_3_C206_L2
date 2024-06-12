@@ -1,0 +1,16 @@
+
+-- Aluno --
+Fulano
+123
+computação
+90.2
+-- Aluno --
+Ciclano
+456
+telecomunicações
+60.0
+-- Aluno --
+Beltrano
+789
+software
+29.9
